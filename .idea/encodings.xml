@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/auth-microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main-microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/new-microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/picture-microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/version-microservice/src/main/java" charset="UTF-8" />
+  </component>
+</project>

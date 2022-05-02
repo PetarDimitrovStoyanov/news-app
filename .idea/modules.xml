@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auth-microservice/auth-microservice.iml" filepath="$PROJECT_DIR$/auth-microservice/auth-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main-microservice/main-microservice.iml" filepath="$PROJECT_DIR$/main-microservice/main-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservices.iml" filepath="$PROJECT_DIR$/.idea/microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new-microservice/new-microservice.iml" filepath="$PROJECT_DIR$/new-microservice/new-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/picture-microservice/picture-microservice.iml" filepath="$PROJECT_DIR$/picture-microservice/picture-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-microservice/user-microservice.iml" filepath="$PROJECT_DIR$/user-microservice/user-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/version-microservice/version-microservice.iml" filepath="$PROJECT_DIR$/version-microservice/version-microservice.iml" />
+    </modules>
+  </component>
+</project>
